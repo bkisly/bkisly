@@ -2,14 +2,14 @@
 
 ## Who am I? 👤
 
-- Freelance .NET developer since 2023
+- Junior .NET developer since 2024
 - Computer Science student at Warsaw University of Technology (FEIT) since 2021 (Software Engineering speciality)
 - Programming passionate since 2015
 
 ## What are my main skills? 🛠️
 
 - C#, .NET
-- ASP.NET Core + Entity Framework Core
+- ASP.NET Core + Entity Framework Core, WPF
 - Basics of HTML, CSS, JS
 - Knowledge of SOLID principles and OODP
 
